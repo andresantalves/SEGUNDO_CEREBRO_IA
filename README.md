@@ -7,13 +7,13 @@ Este projeto foi desenvolvido com o Gemini Notebook (antigo NotebookLM), utiliza
 A proposta é utilizar a IA para facilitar a compreensão do conteúdo sem deixar de conferir as fontes originais.
  # 3. Fontes utilizadas
 
-[5. GEMKT - Marketing Accountability Estratégia.pdf] [PDF]	[Prof. Jorge - Faculdade Eng Salvador Arena]
+5. GEMKT - Marketing Accountability Estratégia.pdf | PDF	| Prof. Jorge - Faculdade Eng Salvador Arena
 
-[ACCOUNTABILITY - O que é? Episódio 199](https://www.youtube.com/watch?v=0h5Iiptl_mI&t=7s)	[Vídeo]	[Canal - Planeta Marketing Oficial]
+[ACCOUNTABILITY - O que é? Episódio 199](https://www.youtube.com/watch?v=0h5Iiptl_mI&t=7s)	| Vídeo | Canal - Planeta Marketing Oficial
 
-[ESTRATÉGIA DE MARKETING](https://www.youtube.com/watch?v=CcxRFJY-0ZU)	[Vídeo]	[Canal - Blog Abri Minha Empresa]
+[ESTRATÉGIA DE MARKETING](https://www.youtube.com/watch?v=CcxRFJY-0ZU) |Vídeo	| Canal - Blog Abri Minha Empresa
 
-[O que é o Growth Marketing e como ele pode ajudar na estratégia da sua empresa?](https://trevisan.edu.br/o-que-e-o-growth-marketing-e-como-ele-pode-ajudar-na-estrategia-da-sua-empresa/)	[Texto]	[Blog Trevisan - Escola de negócios]
+[O que é o Growth Marketing e como ele pode ajudar na estratégia da sua empresa?](https://trevisan.edu.br/o-que-e-o-growth-marketing-e-como-ele-pode-ajudar-na-estrategia-da-sua-empresa/)	| Texto | Blog Trevisan - Escola de negócios
 
 
  # 4. Diretriz utilizada no notebook
@@ -45,11 +45,11 @@ Verificação: Eu achei a resposta bem relevante e embasada no assunto deu para 
 
 As capturas de tela abaixo demonstram as perguntas realizadas, as respostas geradas e as citações utilizadas pelo notebook para fundamentar suas respostas.
 
-* [Evidência 1 — Pergunta e resposta](evidencias/pergunta-1.png)
+* [Evidência 1 — Pergunta e resposta](https://github.com/andresantalves/SEGUNDO_CEREBRO_IA/blob/main/EVIDENCIAS%20-%20PERGUNTA1.png)
   
-* [Evidência 2 — Segunda pergunta e resposta](evidencias/pergunta-2.png)
+* [Evidência 2 — Segunda pergunta e resposta](https://github.com/andresantalves/SEGUNDO_CEREBRO_IA/blob/main/EVIDENCIAS%20-%20PERGUNTA2.png)
   
-* [Evidência 3 — Citações das fontes](evidencias/citacoes.png)
+* [Evidência 3 — Citações das fontes](https://github.com/andresantalves/SEGUNDO_CEREBRO_IA/blob/main/EVIDENCIAS%20-%20CITA%C3%87%C3%95ES3.png)
 
  # 8. Acesso ao projeto
 
