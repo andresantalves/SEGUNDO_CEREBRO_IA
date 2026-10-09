@@ -33,9 +33,9 @@ Fontes citadas: [5. GEMKT - Marketing Accountability Estratégia.pdf] [PDF]	[Pro
 
 Verificação: [Eu achei a resposta bem relevante e embasada no assunto deu para compreender bem. Pelo explicado foi possivel validar pelo conteudo da fonte]
 
-6. Materiais gerados
-[MAPA MENTAL - ARTEFATO1 e caminho do arquivo no repositório]
-[RESUMO EM AUDIO - ARTEFATO2 e caminho do arquivo no repositório]
+ # 6. Materiais gerados
+[Mapa mental — Artefato 1](MAPA%20MENTAL%20-%20ARTEFATO1.pnge)
+[Resumo em áudio — Artefato 2](RESUMO%20EM%20AUDIO%20-%20ARTEFATO2.m4a)
 
 7. Evidências do funcionamento
 
