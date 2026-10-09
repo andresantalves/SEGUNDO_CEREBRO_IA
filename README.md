@@ -54,7 +54,7 @@ As capturas de tela abaixo demonstram as perguntas realizadas, as respostas gera
 
 Notebook compartilhado: [Gemini Notebook](https://notebook.google.com/notebook/cb42f622-d6be-4404-a976-9dc85cac7eca)
 
-Repositório do projeto: [Acessar README.md](https://github.com/andresantalves/SEGUNDO_CEREBRO_IA/blob/main/README.md)
+README do projeto: [Acessar README.md](https://github.com/andresantalves/SEGUNDO_CEREBRO_IA/blob/main/README.md)
 
 Repositório do projeto: [SEGUNDO_CEREBRO_IA](https://github.com/andresantalves/SEGUNDO_CEREBRO_IA)
 
