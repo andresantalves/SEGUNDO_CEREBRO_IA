@@ -36,7 +36,7 @@ Verificação: [Eu achei a resposta bem relevante e embasada no assunto deu para
 6. Materiais gerados
 [MAPA MENTAL - ARTEFATO1 e caminho do arquivo no repositório]
 [RESUMO EM AUDIO - ARTEFATO2 e caminho do arquivo no repositório]
-[Outros materiais, se houver]
+
 7. Evidências do funcionamento
 
 As capturas de tela em evidencias/ demonstram as perguntas realizadas, as respostas geradas e as citações utilizadas pelo notebook para fundamentar suas respostas.
