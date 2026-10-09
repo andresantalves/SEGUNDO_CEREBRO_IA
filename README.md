@@ -8,9 +8,9 @@ A proposta é utilizar a IA para facilitar a compreensão do conteúdo sem deixa
  # 3. Fontes utilizadas
 Fonte	Tipo	Por que foi selecionada
 [5. GEMKT - Marketing Accountability Estratégia.pdf] [PDF]	[Prof. Jorge - Faculdade Eng Salvador Arena]
-[ACCOUNTABILITY - O que é? Episódio 199] [(https://www.youtube.com/watch?v=0h5Iiptl_mI&t=7s)]	[Vídeo]	[Canal - Planeta Marketing Oficial]
-[ESTRATÉGIA DE MARKETING] [(https://www.youtube.com/watch?v=CcxRFJY-0ZU)]	[Vídeo]	[Canal - Blog Abri Minha Empresa]
-[O que é o Growth Marketing e como ele pode ajudar na estratégia da sua empresa?] [(https://trevisan.edu.br/o-que-e-o-growth-marketing-e-como-ele-pode-ajudar-na-estrategia-da-sua-empresa/)]	[Texto]	[Blog Trevisan - Escola de negócios]
+[ACCOUNTABILITY - O que é? Episódio 199](https://www.youtube.com/watch?v=0h5Iiptl_mI&t=7s)	[Vídeo]	[Canal - Planeta Marketing Oficial]
+[ESTRATÉGIA DE MARKETING](https://www.youtube.com/watch?v=CcxRFJY-0ZU)	[Vídeo]	[Canal - Blog Abri Minha Empresa]
+[O que é o Growth Marketing e como ele pode ajudar na estratégia da sua empresa?](https://trevisan.edu.br/o-que-e-o-growth-marketing-e-como-ele-pode-ajudar-na-estrategia-da-sua-empresa/)	[Texto]	[Blog Trevisan - Escola de negócios]
 
  # 4. Diretriz utilizada no notebook
 
@@ -21,7 +21,7 @@ Pergunta 1: [Quais são as principais vantagens de uma empresa ter um growth mar
 
 Resumo da resposta: [A ferramenta explicou que Growth Marketing oferece vantagens estratégicas ao promover o crescimento rápido e sustentável das organizações. Entre os principais benefícios estão o maior conhecimento do público-alvo, o fortalecimento da marca, a otimização do ciclo de vendas e o aumento das conversões. A metodologia atua em todas as etapas do funil AARRR (Aquisição, Ativação, Retenção, Receita e Recomendação), priorizando a fidelização e a receita recorrente. Além disso, utiliza dados, experimentos e testes contínuos para orientar decisões, otimizar resultados e aumentar a competitividade do negócio a longo prazo.]
 
-Fontes citadas: [O que é o Growth Marketing e como ele pode ajudar na estratégia da sua empresa?] [(https://trevisan.edu.br/o-que-e-o-growth-marketing-e-como-ele-pode-ajudar-na-estrategia-da-sua-empresa/)]	[Texto]	[Blog Trevisan - Escola de negócios]
+Fontes citadas: [O que é o Growth Marketing e como ele pode ajudar na estratégia da sua empresa?](https://trevisan.edu.br/o-que-e-o-growth-marketing-e-como-ele-pode-ajudar-na-estrategia-da-sua-empresa/)	[Texto]	[Blog Trevisan - Escola de negócios]
 
 Verificação: [A fonte deu um bom embasamento sobre o assunto, foi exelente para entender mais sobre a duvida perguntada.]
 
