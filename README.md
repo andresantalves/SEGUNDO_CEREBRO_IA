@@ -6,7 +6,6 @@ Meu objetivo é utilizar a inteligência artificial para aprender sobre Growth M
 Este projeto foi desenvolvido com o Gemini Notebook (antigo NotebookLM), utilizando fontes selecionadas para criar um assistente de estudos especializado no tema.
 A proposta é utilizar a IA para facilitar a compreensão do conteúdo sem deixar de conferir as fontes originais.
  # 3. Fontes utilizadas
-
 5. GEMKT - Marketing Accountability Estratégia.pdf | PDF	| Prof. Jorge - Faculdade Eng Salvador Arena
 
 [ACCOUNTABILITY - O que é? Episódio 199](https://www.youtube.com/watch?v=0h5Iiptl_mI&t=7s)	| Vídeo | Canal - Planeta Marketing Oficial
@@ -55,7 +54,10 @@ As capturas de tela abaixo demonstram as perguntas realizadas, as respostas gera
 
 Notebook compartilhado: [Gemini Notebook](https://notebook.google.com/notebook/cb42f622-d6be-4404-a976-9dc85cac7eca)
 
-Repositório do projeto: [Insira o link deste repositório no GitHub]
+Repositório do projeto: [Acessar README.md](https://github.com/andresantalves/SEGUNDO_CEREBRO_IA/blob/main/README.md)
+
+Repositório do projeto: [SEGUNDO_CEREBRO_IA](https://github.com/andresantalves/SEGUNDO_CEREBRO_IA)
+
 
  # 9. Aprendizados
 Foi sensacional conhecer essa ferramenta, incrivel como a IA está em constante evolução e sempre melhorando os recursos. Tenho certeza que sera muito util essa ferramenta para manter minhas pesuqisas e projetos mais alinhados com os resultados buscados.
